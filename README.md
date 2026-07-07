@@ -1,31 +1,35 @@
+### Olá, sou o Martim 👋
+
+Junior Web Developer, focado em full-stack com React, TypeScript e Supabase. Aprendo de forma autodidata e gosto de aplicar ferramentas de IA no meu processo de desenvolvimento.
 
 ---
 
-### 🧬 Atualmente a criar
-- 🔐 Bots inteligentes para Discord  
-- 🧩 Apps com integração AI  
-- 🧠 Sites Diferenciados 
-- 🎮 Interfaces para jogos (FiveM, WebApps)
+**🚀 Atualmente a fazer**
+
+- 🛠️ A construir aplicações full-stack com React, TypeScript e Supabase (PostgreSQL)
+- 📚 A aprofundar React e TypeScript
+- 🔍 À procura de oportunidades como Junior Developer / Full Stack
 
 ---
 
-### ⚙️ Stack Visual
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,typescript,python,lua,github,vscode,mongodb,supabase" />
+**⚙️ Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind,supabase,postgres,git,github,vscode" />
 </p>
 
 ---
 
-### 🧠 Code Philosophy
-> “Os grandes programadores não escrevem código — escrevem ideias que o mundo ainda não entende.”
+**📌 Projeto em destaque**
+
+**[Alinha-te](https://github.com/mz-14/Alinha-te)** — Plataforma de gestão para salão de estética
+
+Aplicação full-stack (PWA) com agendamento em tempo real, prevenção automática de conflitos de marcação, painel administrativo com gestão de vendas/stock, blog e analytics. Autenticação com dois níveis de acesso e Row Level Security ao nível da base de dados.
+
+`React` `TypeScript` `Tailwind` `Supabase` `PostgreSQL`
 
 ---
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/998340008199065802/1435817897317367949/task_01k9bfkcxhe9gthzkchb950p0a2F1762395871_img_1.png?ex=690d591e&is=690c079e&hm=c6348097367a2b0026e12ba6485d11a340412dbba16f59ab89cb694a69748f06&" width="100%"/>
-</p>
+**📫 Contacto**
 
-<p align="center">
-  <a href="https://martimoliveira.pt"><img src="https://img.shields.io/badge/🌐_Website-martimoliveira.pt-green?style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/📸_Instagram-follow-green?style=for-the-badge"/></a>
-</p>
+[LinkedIn](https://linkedin.com/in/martimoliveiradev/) · martimoliveira014@gmail.com · [martimoliveira.pt](https://martimoliveira.pt)
